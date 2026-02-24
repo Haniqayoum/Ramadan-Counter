@@ -1,0 +1,23 @@
+body{
+    background-color: #7B4019;
+}
+.backg{
+    text-align: center;
+}
+.counterBox{
+    z-index: 0.1;
+    position: absolute;
+  bottom: 240px;
+    left: 4%;
+    font-size: 90px;
+    color: white;
+}
+#counter{
+    padding: 0 550px 0 550px;
+}
+button{
+    font-size: 50px;
+    background: transparent;
+    border: none;
+    color: aliceblue;
+}
